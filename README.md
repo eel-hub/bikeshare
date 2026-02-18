@@ -26,7 +26,7 @@ Plottet viser en tydelig forskel:
 - på arbejdsdage ses to markante peaks omkring kl.8 og kl.17
 - på ikke-arbejdsdage ses ét bredt peak midt på dagen 
 
-Dette indikerer, at systemet primært bruges til pendling på arbejdsdage, og fritid i ikke-arbejdsdagene. 
+Dette indikerer, at systemet primært bruges til pendling på arbejdsdage, og fritid på ikke-arbejdsdagene. 
 
 ---
 
