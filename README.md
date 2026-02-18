@@ -10,9 +10,9 @@ Vi ønsker at undersøge, hvordan brugen af bikeshare-systemet varierer over dø
 ---
 
 ## 2. Valgte variabler
-'hr' (timer på dagen)
-'workingday' (arbejdsdag eller ej)
-'bikers' (samlet antal cykler)
+- 'hr' (timer på dagen)
+- 'workingday' (arbejdsdag eller ej)
+- 'bikers' (samlet antal cykler)
 
 Der beregnes det gennemsnitlige antal cykler pr. time opdelt på arbejdsdag vs. ikke-arbejdsdag. 
 
